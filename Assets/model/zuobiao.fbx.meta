@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 7c11ef801b5e82c42909c84a50a988b7
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 3123044115743994370
+    second: "Layer:gh-.002|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: 1943593947365460964
+    second: "Layer:gh-.002|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: -6170047657784744749
+    second: "Layer:gh-.002|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: -993388548451895666
+    second: "Layer:gh-.002|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: -6163518806875543417
+    second: "Layer:gh-.002|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: -3529376275653461063
+    second: "Layer:gh-.002|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  - first:
+      74: -9116091508064514719
+    second: "Layer:gh-.005|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: -3811933169151167690
+    second: "Layer:gh-.005|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: 7436911820009106064
+    second: "Layer:gh-.005|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: -6658495050319527865
+    second: "Layer:gh-.005|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: -4398280493095187654
+    second: "Layer:gh-.005|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: 6227688951317872438
+    second: "Layer:gh-.005|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  - first:
+      74: -1661577099278316796
+    second: "Layer:gh-.006|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: 5626687054789693006
+    second: "Layer:gh-.006|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: -3876811961960950911
+    second: "Layer:gh-.006|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: 9025928021060409112
+    second: "Layer:gh-.006|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: 3621048382601843990
+    second: "Layer:gh-.006|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: -2913230353445797522
+    second: "Layer:gh-.006|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  - first:
+      74: 4835975270928877832
+    second: "Layer:gh-.007|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: 2758436889675540399
+    second: "Layer:gh-.007|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: 7191076339982492793
+    second: "Layer:gh-.007|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: 24862600656279862
+    second: "Layer:gh-.007|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: 3302898566217373575
+    second: "Layer:gh-.007|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: 8371170854156633256
+    second: "Layer:gh-.007|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  - first:
+      74: 6476132286271927469
+    second: "Layer:gh-.011|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: -7894501241794584015
+    second: "Layer:gh-.011|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: 8453655767129540130
+    second: "Layer:gh-.011|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: -1713718861690903681
+    second: "Layer:gh-.011|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: 2424906320524133008
+    second: "Layer:gh-.011|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: -4678907018105389081
+    second: "Layer:gh-.011|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  - first:
+      74: -3408865497414218317
+    second: "Layer:gh-.012|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: 2961051531042017074
+    second: "Layer:gh-.012|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: -1766135408541038540
+    second: "Layer:gh-.012|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: 962346037292938377
+    second: "Layer:gh-.012|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: -4083867605625023147
+    second: "Layer:gh-.012|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: 4253476373964625333
+    second: "Layer:gh-.012|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  - first:
+      74: -3960322604937579505
+    second: "Layer:gh-.013|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer"
+  - first:
+      74: -1562710442929327358
+    second: "Layer:gh-.013|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.001"
+  - first:
+      74: -9201115250706140632
+    second: "Layer:gh-.013|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.002"
+  - first:
+      74: -680681019062700779
+    second: "Layer:gh-.013|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.006"
+  - first:
+      74: -4109768812971283631
+    second: "Layer:gh-.013|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.007"
+  - first:
+      74: -8391880702691170553
+    second: "Layer:gh-.013|Layer:gh-\u89C4\u5212\u5EFA\u7B51|Take 001|BaseLayer.008"
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
